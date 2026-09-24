@@ -1,44 +1,84 @@
-# Hi 👋, I'm HASEEB UR REHMAN
+<div align="center">
 
-**Backend-focused full-stack developer** building production APIs, dashboards, and SaaS backends with Node.js, PostgreSQL, and Next.js. 3+ years shipping real products.
+  # Haseeb Ur Rehman
+  
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=540&lines=Backend-Focused+Full-Stack+Engineer;Production+APIs+%26+Scalable+Architectures;Building+AI-Driven+SaaS+Solutions;PostgreSQL+%7C+Node.js+%7C+Next.js+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://devhaseeb.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/haseeb-web-developer/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/haseebbytes" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <a href="mailto:dhcodes0943@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+</div>
+
+<br/>
+
+### ⚡ Profile Overview
+
+I am a **Backend-focused Full-Stack Engineer** with **3+ years** of hands-on experience building production APIs, real-time dashboards, and resilient SaaS architectures. 
+
+My primary focus is on **high-throughput system reliability**, data layer optimization (PostgreSQL indexing, query planning, and Redis caching), and secure auth workflows. I complement deep backend engineering with modern, responsive frontends using **Next.js** and **Tailwind CSS**.
 
 ---
 
-## 🔭 Currently Working On
-**AI-Driven SaaS Admin Toolkit** — Intelligent admin platform with AI-powered insights and automated workflows
+### 🛠️ Tech Stack & Tooling
 
-## 🌱 Currently Learning
-- Advanced PostgreSQL & System Design
-- AWS (ECS, RDS) & Docker production
-- C++ & DSA for Big Tech interviews
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,mongodb,redis,graphql,nextjs,react,tailwind,docker,aws,linux&theme=dark" alt="Tech Stack" />
+</div>
 
-## 💬 Ask Me About
-API Architecture • PostgreSQL Performance • JWT + Refresh Tokens • SaaS Billing • CI/CD Pipelines
+<br/>
 
-## 🌐 Portfolio
-👨‍💻 [devhaseeb.vercel.app](https://devhaseeb.vercel.app)
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend & Architecture** | `Node.js` `TypeScript` `Express` `REST APIs` `GraphQL` |
+| **Databases & Caching** | `PostgreSQL` `MongoDB` `Redis` `Prisma` |
+| **Frontend & UI** | `Next.js (App Router)` `React` `Tailwind CSS` `HTML5/CSS3` |
+| **DevOps & Cloud** | `Docker` `AWS (ECS, RDS)` `Linux` `CI/CD Pipelines` `Git` |
 
-## 📫 Connect With Me
-**Email:** dhcodes0943@gmail.com
+---
 
-<p align="left">
-<a href="https://x.com/haseebbytes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/haseeb-web-developer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+### 📐 Core Engineering Focus
 
-## 🛠️ Tech Stack
+- **API Architecture & Scalability** — Designing resilient REST & GraphQL services, rate limiting, and structured error handling.
+- **Database Performance & Optimization** — Query profiling, indexing strategies, connection pooling, and data schema design.
+- **Auth & Session Security** — Stateless authentication with JWT, rotating refresh tokens, and granular Role-Based Access Control (RBAC).
+- **Cloud Infrastructure & Containers** — Dockerizing multi-service architectures and deploying reliable workloads to AWS.
 
-<p align="left">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+---
+
+### 🚀 Featured Projects & Focus
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[AI-Driven SaaS Admin Toolkit](https://github.com/NOdestie42)** | Intelligent admin control plane with AI-powered telemetry, automated workflows, and comprehensive metric visualization. | `Next.js` `Node.js` `PostgreSQL` `Redis` |
+| **[PulseBoard](https://github.com/NOdestie42/PulseBoard)** | Real-time monitoring and analytics dashboard engineered for low latency and high data throughput. | `TypeScript` `React` `Tailwind CSS` `Node.js` |
+| **[Livora 360](https://github.com/NOdestie42/livora-360)** | Full-stack platform featuring end-to-end workflows and modular service design. | `TypeScript` `Next.js` `PostgreSQL` |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NOdestie42&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Let's connect — open to discussing backend architectures, system design, or engineering opportunities.</sub>
+</div>
